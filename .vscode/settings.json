@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.dart_tool": true,    
+    "**/.idea": true,
+    "**/web": true,
+    "**/build": true,
+    "**/android": true,
+    "**/ios": true,
+    "**/test": true,
+    "**/.flutter-plugins-dependencies": true,
+    "**/ios": true,  
+    "**/.gitignore": true,
+    "**/.metadata": true,
+    "**/analysis_options.yaml": true,
+    "**/devtools_options.yaml": true,
+    "**/omar_ahmed_flutter_advanced_complete_course.iml": true,
+    "**/pubspec.lock": true,
+    "**/flutter_native_splash.yaml": true,
+    "**/README.md": true
+    
+  }
+}
